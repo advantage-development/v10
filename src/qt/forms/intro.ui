@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Intro</class>
+ <widget class="QDialog" name="Intro">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>674</width>
+    <height>363</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Welcome</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <italic>true</italic>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QLabel { font-style:italic; }</string>
+     </property>
+     <property name="text">
+      <string>Welcome to Advantage. Please read and agree to the legal terms laid out below and press &quot;OK&quot; to continue.</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <spacer name="verticalSpacer_4">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeType">
+      <enum>QSizePolicy::Minimum</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>15</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <widget class="QTextEdit" name="textEdit">
+     <property name="html">
+      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt; font-weight:600;&quot;&gt;Advantage — Formal Policies and Terms of Service&lt;/span&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;					The following terms and conditions of service (these “ Terms of Service ”) apply to users of (https://www.advantage.one) (“the Site ”). You should read these Terms of Service carefully to determine which provisions apply to you. By using any of the services, functions, or features offered from time to time on the Site (collectively or individually, the “ Services ”), the user (referred to herein as “ you ” or “ your ”) agrees to these Terms of Service (each of you and one of the following entities named in (a) or (b) being a “ Party ” and collectively, the “ Parties ” .PLEASE REVIEW THE ARBITRATION PROVISION SET FORTH BELOWCAREFULLY, AS IT WILL REQUIRE ALL TLTD CUSTOMERS TO RESOLVEDISPUTES ON AN INDIVIDUAL BASIS THROUGH FINAL AND BINDINGARBITRATION. BY ENTERING THIS AGREEMENT, YOU EXPRESSLYACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND ALL OF THETERMS OF THIS AGREEMENT AND HAVE TAKEN TIME TO CONSIDER THECONSEQUENCES OF THIS IMPORTANT DECISION. For the avoidance of doubt, these Terms of Service have two Parties: You and Advantage. In particular, please note that all transactions of Digital Credits on or off the Site may be subject to fees levied by Advantage as set out and updated in the Fees Schedule from time to time. In the event of any inconsistency between these Terms of Service and any other pages, policies,terms, conditions, licenses, limitations, or obligations contained within or on the Site, these Terms of Service shall prevail. By creating and downloading Digital Token Wallets on the Site or by using any of the Services, you acknowledge that you have read, understand, and completely agree to these Terms of Service, as updated and amended from time to time. If you do not agree to be bound by these Terms of Service or with any subsequent amendments, changes, or updates, you may not use any of the Services and if you do use any of the Services you will be bound by theTerms of Service, as amended; your only recourse in the case of your unwillingness to be bound by these Terms of Service is to stop using all of the Services.These Terms of Service may be amended, changed, or updated by Advantage at any time and without prior notice to you. You should check back often on the Site to confirm that your copy and understanding of these Terms of Service is current and correct. Your non-termination or continued use of any Services after the effective date of any amendments,changes, or updates constitutes your acceptance of these Terms of Service, as modified by such amendments, changes, or updates.The use of the Site and any Services is void where such use is prohibited by, would constitute a violation of, or would be subject to penalties under applicable Laws, and shall not be thebasis for the assertion or recognition of any interest, right, remedy, power, or privilege.1. Interpretation:1. Definitions: In these Terms of Service and all documents incorporatedherein by reference, the following words have the following meaningsunless otherwise indicated:1. “ Affiliate ” means, in relation to either Party, a direct or indirect subsidiary of the Party, a holding company of the Party, and anyother subsidiary of that holding company;2. “ AML ” means anti-money laundering, including all Laws applicable to the Parties prohibiting money laundering or any acts or attempted acts to conceal or disguise the identity or origin of; change the form of; or move, transfer, or transport, illicit proceeds,property, funds, Fiat, or Digital Credits, including but not limited tothe promotion of any unlawful activity such as fraud, tax evasion,embezzlement, insider trading, financial crime, bribery, cyber theftor hack, narcotics trafficking, weapons proliferation, terrorism, orEconomic Sanctions violations, which may also require internalcontrols to detect, prevent, report, and maintain records ofsuspected money laundering or terrorist financing;3. “ Anti-Corruption ” means all Laws applicable to each Partyprohibiting corruption or bribery of Government Officials,kickbacks, inducements, and other related forms of commercialcorruption or bribery;4. “ Associates ” means TIL, TLTD, TOL and each and every one oftheir respective shareholders, directors, officers, Affiliates,employees, contractors, agents, partners, insurers, and attorneyswho or that are acting or performing or has acted or performedservices for the benefit of or on behalf of the Site;5. “ Controlling Person ” means any Person who owns more than a 51percent interest in any Person or affiliate;6. “ Copyrights ” has the meaning set out in paragraph 10 of theseTerms of Service;7. “ CPR Rules ” has the meaning set out in paragraph 6 of theseTerms of Service;8. “ CRS ” means the common reporting standard or the Standard forAutomatic Exchange of Financial Account Information;9. “ CTF ” means counter-terrorist financing;10.“ Digital Credit ” means a digital representation of value thatfunctions as (i) a medium of exchange; (ii) a unit of account; (iii) astore of value, and/or (iv) other similar digital representations ofrights or assets, which is neither issued nor guaranteed by anycountry or jurisdiction and does not have legal tender status in any country or jurisdiction, typically including blockchain-based assetsor rights including sovereign cryptocurrency or virtual currencysuch as bitcoins, Litecoins, and ethers;11.“ Digital Credits Address ” means an alphanumeric identifier thatrepresents a potential destination for a Digital Credits transfer,which typically is associated with a user’s Digital Credits Wallet;12.“ Digital Credits Wallet ” means a software application (or othermechanism) that provides a means for holding, storing, andtransferring Digital Credits, including a user’s Digital CreditsAddress, Digital Credits balance, and cryptographic keys;13.“ Economic Sanctions ” means financial sanctions, trade embargoes, export or import controls, anti-boycott, and restrictivetrade measures enacted, administered, enforced, or penalized byany Laws applicable to you or the Site;14.“ Eligible Contract Participant ” has the meaning set out in Section 1a(18) of the United States Commodity Exchange Act and Rule 1.3 of the United States Commodity Futures TradingCommission, each as amended;15.“ FATCA ” means the United States Foreign Account TaxCompliance Act, as enacted by Title V, Subtitle A of the Hiring Incentives to Restore Employment Act, P.L 111-147 (2010), asamended;16.“ FATCA IGA ” means an intergovernmental agreement enteredinto by the United States and another jurisdiction to implementFATCA;17.“ FATF ” means the Financial Action Task Force;18.“ FIA ” means the Financial Investigation Authority of the British Virgin Islands;19.“ Fiat ” means the money or currency of any country or jurisdictionthat is:1. designated as legal tender; and,2. circulated, customarily used, and accepted as a medium ofexchange in the country or jurisdiction of issuance;20.“ FinCEN ” means the Financial Crimes Enforcement Network ofthe U.S. Department of the Treasury;21.“ Government ” means any national, federal, state, municipal, local,or foreign branch of government, including any department,agency, subdivision, bureau, commission, court, tribunal, arbitralbody, or other governmental, government appointed, orquasi-governmental authority or component exercising executive,legislative, juridical, regulatory, or administrative powers,authority, or functions of or pertaining to a governmentinstrumentality, including any parasternal company, or state-owned(majority or greater) or controlled business enterprise;22.“ Government Approval ” means any authorization, license,permit, consent, approval, franchise, concession, lease, ruling,certification, exemption, exception, or waiver by or with anyGovernment necessary to conduct the business of either Party orthe execution and delivery of the Services under this Terms ofService;23.“ Government Official ” means an officer or employee of any Government, a director, officer, or employee of any instrumentality of any Government, a candidate for public office, a political partyor political party official, an officer or employee of a publicinternational organization, and any Person who is acting in anofficial capacity for any of the foregoing, even if such Person isacting in that capacity temporarily and without compensation;24.“ Laws ” means all laws, statutes, orders, regulations, rules, treaties,and/or official obligations or requirements enacted, promulgated,issued, ratified, enforced, or administered by any Government thatapply to you or the Site;25.“ Losses ” has the meaning set out in paragraph 14 of these Terms of Service;26.“ OFAC ” means Office of Foreign Assets Control of the U.S.Department of the Treasury;27.“ Marks ” has the meaning set out in paragraph 10 of these Termsof Service;28.“ Person ” includes an individual, association, partnership,corporation, other body corporate, trust, estate, and any form of organization, group, or entity cognizable as legal personalities;29.“ Personal Information ” has the meaning set out in the PrivacyPolicy .30.“ Prohibited Jurisdictions ” means Cuba; Democratic People’sRepublic of Korea (North Korea); Iran; Pakistan; Syria; the Government of Venezuela; and Crimea;31.“ Prohibited Use ” has the meaning set out in paragraph 8 of these Terms of Service;32.“ Sanctions List ” means the “Specially Designated Nationals and Blocked Persons” (“ SDN ”) List and the Non-SDN List, includingthe “Sectoral Sanctions Identifications List”, published by OFAC;the Section 311 Special Measures for Jurisdictions, FinancialInstitutions, or International Transactions of Primary MoneyLaundering Concern published by FinCEN; and, any other foreign terrorist organization or other sanctioned, restricted, or debarredparty list published by the FIA, or under Economic Sanctions,AML, or CTF Laws of or by Governments of the United States, theBritish Virgin Islands, the United Nations, or any other jurisdictionor Government, as applicable to You or to the Site, as amended,supplemented, or substituted from time to time;33.“ Sanctioned Person ” refers to any Person or Digital CreditsAddress that is: (i) specifically listed in any Sanctions List; or (ii)directly or indirectly owned 51 percent or more by any Person orgroup of Persons in the aggregate, or a Digital Credits Walletassociated with such Person or Persons, referred to in any Sanctions List, or Government or Government Official of anyProhibited Jurisdiction, and (iii) that is not subject to anyGovernment Approval or otherwise not sanctioned, restricted, orpenalized under applicable Laws;34.“ Terms of Service ” means these terms and conditions of service,as they may be changed, amended, or updated from time to time.35.“ Territory or Insular Possession of the United States ” means theCommonwealth of Puerto Rico; the U.S. Virgin Islands; Guam; theCommonwealth of the Northern Mariana Islands; and all otherterritories and possessions of the United States, other than theIndian lands (as that term is defined in the Indian GamingRegulatory Act);36.“ United States ” means the several states of the United States andthe District of Columbia;37.“ U.S. Account ” means any account that is held by one or moreU.S. Persons or non-U.S. entities that have one or more ControllingPersons who is a U.S. Person;38.“ U.S. Citizen or U.S. Resident ” includes any U.S. citizen, U.S.lawful permanent resident, individual who meets the “substantialpresence” test described in section 7701(b)(3) of the U.S. InternalRevenue Code of 1986 (as amended), protected individual undersection 1324b(a)(3) of the U.S. Immigration and Nationality Act,or individual who holds a passport issued by the United StatesGovernment;39.“ U.S. Financial Institution ” means any U.S. Person and any of itsaffiliates, branches, offices, or agents incorporated, organized, orlocated in the United States or Territory or Insular Possession ofthe United States that is engaged in the business of: (i) acceptingdeposits, (ii) making, granting, transferring, holding, or brokeringremittances, loans, or credits, or (iii) purchasing or selling foreignexchange, securities, commodity futures or options, or procuringpurchases and sellers thereof, whether as principal or agent, andthis term applies to affiliates, branches, offices, and agencies of anyforeign financial institution that are located in the United States orTerritory or Insular Possession of the United States, but not suchforeign financial institution’s affiliates, branches, offices, oragencies located outside the United States and Territory or InsularPossession of the United States;40.“ U.S. Person ” means:1. U.S. Citizen or U.S. Resident;2. corporation, partnership, or other entity established ororganized in or under the Laws of the United States;3. any estate of a decedent who was a citizen or a resident ofthe United States;4. any trust if (i) a court within the United States is able toexercise primary supervision over the administration ofthe trust, and (ii) one or more United States Persons havethe authority to control all substantial decisions of thetrust; or5. any Person organized or incorporated outside the UnitedStates and the Territory or Insular Possession of theUnited States in which any of the foregoing, whethersingularly or in the aggregate, directly or indirectly holds a50 percent or greater equity interest by votes or value,holds a majority of seats or memberships on the board ofdirectors of the entity, or authorizes, establishes, directs, orotherwise controls the actions, policies, personneldecisions, or day-to-day operations of the Person;41.“ you ” or “ your ” means the user.2. Headings: The headings and sub-headings in these Terms of Service are forease of reference only and are not to be taken into account in theconstruction or interpretation of any provision or provisions to which theyrefer.3. Extended Meanings: Unless otherwise specified in these Terms of Service,words importing the singular include the plural and vice versa and wordsimporting gender include all genders.4. Governing Law: These Terms of Service shall be governed by andconstrued and enforced in accordance with the Laws of the British VirginIslands, and shall be interpreted in all respects as a British Virgin Islandscontract. Any dispute, controversy, claim or action arising from or related toyour use of the Site or these Terms of Service likewise shall be governed bythe Laws of the British Virgin Islands, exclusive of choice-of-lawprinciples.2. Licence to Use the Site: If you comply with these Terms of Service, Advantagegrants you the limited right to use the Site and the Services. The right to use the Siteand the Services is a personal, restricted, non-exclusive, non-transferable,non-sublicensable, revocable, limited licence, and it is subject to the limitations andobligations in these Terms of Service. Nothing in these Terms of Service gives youany licence (other than as set out in this paragraph), right, title, or ownership of, in,or to the Site, any of the Services, the Copyrights or the Marks. The Site maysuspend or terminate the Services to you, your Digital Credits Wallet, or to any ofyour Digital Credits Address at its sole discretion, as required by applicable Laws orwhere Advantage determines that you have violated, breached, or acted inconsistentwith any of these Terms of Service.3. About Advantage Credits; General Restrictions: Advantage issues and redeemsAdvantage Credits. Advantage Credits may be used, kept, or exchanged onlinewherever parties are willing to accept Advantage Credits. Advantage Credits arefully backed by the Fiat used to purchase them at issuance via equivalent AdvantageCredits. Advantage are denominated in a range of Fiat. The range of Fiat availableto denominate Advantage Credits is within the sole control and at the sole andabsolute discretion of Advantage. Advantage Credits are backed by money, but theyare not money themselves. The right to have Advantage Credits redeemed or issuedis a contractual right personal to you.4. The following Persons are prohibited from depositing to, or withdrawing from,any Digital Credits Wallet on the Site:1. Persons domiciled or ordinarily resident in, certain nationals of, or theGovernments or Government Officials of Prohibited Jurisdictions;2. any Person that resides, is located, has a place of business, or conductsbusiness in the State of New York; and3. U.S. Persons.5. Any individual who is a U.S. Person and any entity that is a U.S. Person isprohibited from using the Site or any Services, including but not limited tousing a Digital Credits Wallet on the Site. Exceptions to this policy may bemade by Advantage, in its sole discretion, for Eligible Contract Participantsonly, which shall be customers solely of TLTD.6. For the avoidance of doubt, as defined above, U.S. Persons (including but notlimited to United States Citizens or United States Residents) are prohibited fromusing the Site or any Services. In addition, where you are not a U.S. Person and youraccount would not be regarded as a U.S. Account, but Advantage knows or hasreason to know that you are making a deposit, withdrawal, or transfer of Fiat orDigital Credits to, from, or through any U.S. Financial Institution to facilitate theprovision of the Services to you, then you may be regarded as a U.S Person andprohibited from using the Site or any Services, at the sole discretion of Advantage.7. Withdrawals and Deposits: In the course of processing and sending any withdrawals,or when processing and receiving deposits, Advantage may be required to share youruser information with other contractual third parties, including financial institutions,or as required under applicable Laws or demanded upon a lawful request by anyGovernment. You hereby irrevocably grant full permission and authority forAdvantage to share this information with such contractual third parties, or asrequired under applicable Laws or demanded upon a lawful request by anyGovernment, and release Advantage from any liability, error, mistake, or negligencerelated thereto.8. Resolution of Disputes:1. If you are an Advantage Customer, any dispute, claim or controversyarising out of or relating to (a) the Terms of Service or the existence,breach, termination, enforcement, interpretation or validity thereof, or (b)your account(s), the operations and Services of the Site, or (c) your accessto or use of the Services at any time, shall be subject to and finally resolvedby confidential arbitration before a sole arbitrator in accordance with theInternational Institute for Conflict Prevention and Resolution Rules for NonAdministered Arbitration, as amended from time to time (the “ CPRRules ”). The interpretation and enforceability of this arbitration provisionshall be governed by the Federal Arbitration Act, 9 U.S.C. §§ 1 et seq .Issues of arbitrability and enforceability of this arbitration provision shall bedecided by the arbitrator in the first instance. Judgment upon the awardrendered by the arbitrator may be entered by any court having jurisdictionthereof. The seat or legal place of the arbitration shall be Toronto, Ontario,unless otherwise agreed by the parties. The language of the arbitralproceedings shall be English. You agree to the appointment of a singlearbitrator selected in accordance with the CPR Rules. The arbitrator mayaward any relief that a court of competent jurisdiction could award,including attorneys’ fees when authorized by law, and the arbitral decisionmay be enforced in court. For claims less than $15,000 CAD, shallreimburse you for all initiating filing fees that are in excess of fees youwould have paid if you were proceeding in court, provided however, shouldyou be deemed to be the losing Party, the filing fees reimbursed byAdvantage shall be added to the final arbitrator’s costs and fees award. Theprevailing Party shall be entitled to its costs of the arbitration (including thearbitrator’s fees) and its reasonable attorney’s fees and costs. You andAdvantage agree that any Party hereto may bring claims against the othersonly on an individual basis and not as a plaintiff or class member in anypurported class or representative action or proceeding. No class arbitrationis permitted, and no arbitrator may consolidate or join more than onePerson’s or Party’s claims and may not otherwise preside over any form ofa consolidated, representative, or class proceeding. Any relief awarded toany one Advantage user cannot and may not affect any other Advantageusers.9. JURY TRIAL WAIVER: TO THE FULLEST EXTENT PERMITTED BYAPPLICABLE LAW, THE PARTIES HEREBY IRREVOCABLY ANDUNCONDITIONALLY WAIVE ALL RIGHT TO TRIAL BY JURY IN ANYLEGAL ACTION OR PROCEEDING OF ANY KIND WHATSOEVERARISING OUT OF OR RELATING TO THESE TERMS OF SERVICE ORANY BREACH THEREOF, ANY USE OR ATTEMPTED USE OF THE SITEOR THE SERVICE BY YOU, AND/OR ANY OTHER MATTERINVOLVING THE PARTIES.10. Prohibited Uses: You may not:1. use the Site or any Services in order to disguise the origin or nature of illicitproceeds of, or to further, any breach of applicable Laws, or to transact ordeal in, any contraband Digital Credits, Fiat, funds, property, or proceeds;2. use the Site or any Services if any applicable Laws, including but notlimited to AML Laws, CTF Laws, Anti-Corruption Laws, EconomicSanctions Laws, prohibit, penalize, sanction, or expose the Site to liabilityfor any Services furnished or offered to you or any of your Digital CreditsWallet(s) or Digital Credits Address(es) under these Terms of Service;3. use the Site or any of the Services, or any financial services of any U.S.Financial Institution, whether or not an Affiliate or Associate of Advantage,to facilitate, approve, evade, avoid, or circumvent any applicable Laws,including but not limited to AML Laws, CTF Laws, Anti-Corruption Laws,and Economic Sanctions Laws;4. use the Site or any Services to evade taxes under the Laws of Canada, theUnited States, or any other jurisdiction(s) applicable to you or the Site;5. use the Site or any Services with anything other than Fiat, funds, keys,property, or Digital Credits that have been legally obtained by you and thatbelong to you;6. use the Site or any Services to interfere with or subvert the rights orobligations of Advantage or the rights or obligations of any other Site useror any other third party;7. take advantage of any technical glitch, malfunction, failure, delay, default,or security breach on the Site or Digital Credits Wallet;8. use the Site or any Services to engage in conduct that is detrimental toAdvantage or to any other Site user or any other third party;9. use the Site or any Services to: (i) engage or attempt to engage in washtrading, spoofing, fictitious trading or price manipulation; (ii) enter ordersor quotes in any Digital Token market with the intent to disrupt, or withreckless disregard for the adverse impact on, the orderly conduct of tradingor the fair execution of transactions; or (iii) enter orders or quotes in anyDigital Token market with the intent of creating the false impression ofmarket depth or market interest;10. falsify any account, Digital Credits Wallet, or Digital Credits Addressregistration, exchange, or administration details provided to Advantage,impersonate another Person or misrepresent your affiliation with a Person;11. falsify or materially omit any information or provide misleading orinaccurate information requested by Advantage, including at registration orduring the course of administering any Services to you;12. cause injury to, or attempt to harm, Advantage or any third party throughyour access to the Site or any Services;13. have more than one account and more than one Digital Credits Wallet onthe Site, or use any Digital Credits Wallet on a one-time, ‘throwaway’ basis;any such additional Digital Credits Wallets or one time ‘throwaway’ DigitalCredits Wallet may be terminated or suspended at the absolute discretion ofAdvantage;14. where you are subject to prohibitions or restrictions as set forth in paragraph3, access the Site or use any Services utilizing any virtual private network,proxy service, or any other third party service, network, or product with theeffect of disguising your IP address or location, or access the Site or use anyServices using a Digital Credits Address in or subject to the jurisdiction ofany Prohibited Jurisdiction or Government or Government Official thereof;or,15. violate, cause a violation of, or conspire or attempt to violate these Terms ofService or applicable Laws.16.Any use as described in this paragraph shall constitute a “ Prohibited Use ”.If Advantage determines that you have engaged in any Prohibited Use,Advantage may address such Prohibited Use through an appropriatesanction, in its sole and absolute discretion. Such sanction may include, butis not limited to, making a report to any Government, law enforcement, orother authorities, without providing any notice of you about any such report;confiscation of any Fiat, funds, property, proceeds, or Digital Credits in anyDigital Credits Wallet that you have on the Site; and, suspending orterminating your access to any Services or Fiat, funds, property, or DigitalCredits from any Digital Credits Address. Advantage may, at its sole andabsolute discretion, seize and deliver your property to any applicableGovernment, law enforcement, or other authorities where circumstanceswarrant. In addition, should your actions or inaction result in the impositionof economic costs to Advantage, you shall pay an amount to Advantage soas to render Advantage whole, including without limitation, the amount oftaxes or penalties that might be imposed on Advantage.11. Due Diligence Generally, Anti-Money Laundering and Counter-Terrorist Financing:Advantage is committed to providing safe, compliant, and reputable Services toidentify, detect, prevent, and report on money laundering, terrorist financing, andother improper activities under applicable AML Laws, CTF Laws, Anti-CorruptionLaws, and Economic Sanctions Laws. Accordingly, Advantage insists on acomprehensive and thorough user due diligence process implementation andongoing analysis and reporting. By agreeing to these Terms of Service, you shallaffirmatively certify (i) you are not a U.S. Person and your account would not beregarded as a U.S. Account, and must provide promptly all information requestedand necessary to satisfy due diligence requirements and obligations pursuant toapplicable Laws and the compliance policies or procedures of Advantage.Additionally, Advantage may assess whether you will make, or intend to make, adeposit, withdrawal, or transfer of Fiat or Digital Credits to, from, or through anyU.S. Financial Institution to facilitate the provision of the Services, and if applicable,you must provide all information requested and necessary to satisfy due diligencerequirements and obligations pursuant to applicable Laws and the compliancepolicies or procedures of Advantage. You agree to provide promptly documentation,information, or records requested by Advantage at any time, including, withoutlimitation, a self-certification permitting the determination of tax residence andstatus under FATCA and under CRS or other applicable Laws. Such informationmay include, but is not limited to, self-certifications as to Controlling Persons.Advantage needs to retain certain information, documentation, and records on filepursuant to applicable Laws and its contractual relationships, and Advantage herebyexpressly reserves the right to keep such information, documentation, and records.Additionally, Advantage monitors for and assesses suspicious or sanctionabletransactions under applicable AML, Anti-Corruption, and Economic SanctionsLaws, as well as undertakes mandatory reporting to FinCEN, OFAC, FIA, andinternational regulators. These undertakings shall apply even when you suspend orterminate your relationship with Advantage or abandon your application to have aDigital Credits Wallet with Advantage. Our policies apply to any and all DigitalCredits , Fiat, and other funds or property being exchanged on or through the Site orby any of you, your Affiliates, of any of Advantage’s Direct Associates.12. Advantage reserves the right to refuse registration to, to bar transactions from or to,or to suspend or terminate the administration of Services, Digital Credits Address, orDigital Credits Wallet for or with, any user for any reason, at any time, including butnot limited to the provisions of paragraphs 8 and 11, subject to any limitationsimposed by applicable Laws. Without limiting the generality of the foregoing, thisincludes, but is not limited to, any transfer, transaction, business, or dealing with a:(i) Sanctioned Person, (ii) a Person from or in jurisdictions that does not meetinternational AML–CTF standards as set out by the FATF as high-risk,non-cooperative, and strategically deficient jurisdictions, including but not limited tothe Democratic People’s Republic of Korea (North Korea), Ethiopia, Iran, Iraq,Serbia, Saudi Arabia, Sri Lanka, Trinidad &amp;amp; Tobago, Tunisia, Vanuatu, or Yemen;(iii) Person that is a Government Official or Politically Exposed Person within themeaning of the FATF’s 40 Recommendations; (iv) Person that presents a risk of anyexposure to penalties, sanctions, or other liabilities under AML Laws, CTF Laws,Anti-Corruption Laws, Economic Sanctions Laws, or tax Laws that may apply; (v)Person that Advantage determines is acting in the United States or Territory orInsular Possession of the United States (whether or not by, to, through, or from anyU.S. Financial Institution) in violation of, causing any other Person, including any ofthe Associates, to violate, attempting or conspiring to violate, or evading orcircumventing these Terms of Service or applicable Laws; and (vi) any Person thatfails to meet any user due diligence standards, requests, or requirements ofAdvantage, or otherwise appears to be of high risk, including but not limited to anyof the foregoing factors. In lieu of refusing registration or ongoing administration ofyour Digital Credits Wallet, Advantage may perform enhanced due diligenceprocedures. At all times, you may be subject to enhanced due diligence proceduresin your use of the Site and any Service. If you decline to provide requested duediligence information or otherwise do not reply timely or substantively with thedocumentation or data requested, the Site has the absolute discretion to suspend orterminate Services to you immediately.13. Your Representations &amp;amp; Warranties: You represent and warrant to Advantage asfollows:1. The trademarks, service marks, and trade names, including both word marksand design marks (the “ Mark(s) ”) are the property of Advantage or otherthird parties. You agree not to appropriate, copy, display, or use the Marksor other content without express, prior, written permission from Advantageor the third-party owner of the Marks, including without limitation, as adomain name, as social media profile/handle, on a website, in anadvertisement, as or in connection with a phone number, as or in connectionwith an email address, in Internet search results, in meta data or code, or inany other manner;2. Unless otherwise indicated, all materials on the Site are copyrighted by, andowned exclusively by, Advantage (“ Copyrights ”). Advantage reserves allrights in its Copyrights. You agree not to appropriate, copy, display, or usethe Copyrights or other content without express, prior, written permissionfrom Advantage;3. You may link to the Site’s homepage or other pages, provided you do so ina way that is fair and legal and does not damage Advantage’s orAdvantage’s reputation or take advantage of it, but you must not establish alink in such a way as to suggest any form of association, approval, orendorsement on Advantage’s part without prior, express, written consent;4. The Site may provide certain social media features that enable you to link,send communications, or display certain content from the Site. You mayuse these features solely as they are provided by Advantage. You may notestablish a link from any website that is not owned by you, cause the Site orportions of it to be displayed on or by any other site (for example, framing,deep linking, or in-line linking), or otherwise take any action with respect tothe materials on the Site that is inconsistent with any other provision ofthese Terms; and5. The Site and Services are owned by Advantage and are protected bycopyright, trademark, and other intellectual property or proprietary rightslaws in various jurisdictions. All rights not expressly granted to you inthese Terms are reserved by Advantage. Except as expressly authorized byAdvantage or its licensors, you will not (a) license, sublicense, rent, sell,resell, transfer, assign, distribute, or otherwise commercially exploit ormake available to any third party the Site or Service in any way; (b) copy,modify, republish, distribute, or make derivative works based upon the Siteor Service; (c) “frame” or “mirror” the Site or Service on any other server orwireless or Internet-based device; or (d) reverse engineer or access the Siteor its Services in order to (i) build a competitive product or service, (ii)build a product or service using similar ideas, features, functions, orgraphics of the Site or Service, or (iii) copy any ideas, features, functions, orgraphics of the Site or Service.14. Your Representations &amp;amp; Warranties: You represent and warrant to Advantage asfollows:1. that, if you are an individual user, you are 18 years of age or older and thatyou have the capacity to contract under applicable Laws;2. that, if you are registering to use the Site on behalf of a legal entity, (i) suchlegal entity is duly organized and validly existing under the applicable lawsof the jurisdiction of its organization; and (ii) you are duly authorized bysuch legal entity to act on its behalf;3. that you understand the risks associated with using the Site, that you are notprohibited or restricted from using the Site by paragraph 3 of these Terms,and that you are not otherwise prohibited by applicable Laws from using theSite;4. that you will not use the Site or any Services in order to conceal or disguisethe origin or nature of proceeds of crime or terrorist financing, or to further,any breach of applicable AML Laws or CTF Laws, or to deal in anyunlawful Digital Credits, Fiat, property, funds, or proceeds;5. that you will not trade or obtain financing on the Site or use any Serviceswith anything other than Fiat, funds, or Digital Credits that have beenlegally obtained by you and that belong to you;6. that, to the extent not penalized by or in conflict with Canada or UnitedStates Laws, you are currently in compliance with, and must, at your owncost and expense, comply with all Laws that relate to or affect the Servicesconducted under these Terms of Service, including but not limited to AMLLaws, CTF Laws, Anti-Corruption Laws, Economic Sanctions Laws, or taxLaws, including FATCA and CRS;7. that you consent to any and all tax and information reporting under AMLLaws, CTF Laws, Anti-Corruption Laws, Economic Sanctions Laws, or taxLaws, including FATCA and CRS, as Advantage may reasonablydetermine;8. that neither you nor any of your Affiliates shall use any Digital Credits,Fiat, property, proceeds or funds subject to the Services of the Site directlyor indirectly (i) on behalf of or for the benefit of a Sanctioned Person or anyPerson subject to the jurisdiction of a Prohibited Jurisdiction, except whereauthorized under any Government Approval or not restricted by applicableLaws; (ii) in violation of or as prohibited, restricted, or penalized underapplicable Economic Sanctions Laws; or (iii) in any way that would violate,be inconsistent with, penalized under, or cause the omission of filing of anyreport required under applicable AML Laws, CTF Laws, or EconomicSanctions Laws;9. that you have not (i) violated; (ii) been fined, debarred, sanctioned, thesubject of Economic Sanctions-related restrictions, or otherwise penalizedunder; (iii) received any oral or written notice from any Governmentconcerning actual or possible violation by you under; or (iv) received anyother report that you are the subject or target of sanctions, restrictions,penalties, or enforcement action or investigation under, any applicableLaws, including AML Laws, CTF Laws, Anti-Corruption Laws, orEconomic Sanctions Laws;10. that neither you nor any of your Affiliates is: (i) itself or owned orcontrolled by a Sanctioned Person; (ii) involved in any transaction, transfer,or conduct, whether or not by using or receiving the Services from anyDigital Credits Wallet or Digital Credits Address, that is likely to result inyou or your Affiliates becoming a Sanctioned Person; or (iii) residing ordomiciled in, or transferring Digital Credits, Fiat, funds, or property to,from, or through any Digital Credits Wallet, Digital Credits Address, orother account in, a Prohibited Jurisdiction or Government or GovernmentOfficial of a Prohibited Jurisdiction;11. that neither you nor any of your Affiliates has directly or indirectly offered,promised, given, or authorized any payment, or offered, promised, given, orauthorized the giving of anything else of value, including any DigitalCredits, to a Government Official or individual employed by another entityin the private sector in violation of any applicable Anti-Corruption Laws;12. that you will not falsify any Digital Credits Wallet registration oradministration details provided to Advantage;13. that you will not falsify or materially omit any information or providemisleading or inaccurate information requested by Advantage in the courseof, directly or indirectly relating to, or arising from your activities on theSite or use of any Services, including at registration or duringadministration or other due diligence processes, and that if any informationprovided to Advantage becomes incorrect, you will promptly providecorrected information to Advantage;14. that any instructions received or undertaken through your login credentialsor from your authorized e-mail subscription address on file with Advantageare deemed to be valid, binding, and conclusive, and that Advantage mayact upon those instructions without any liability or responsibility attachingto it;15. that you will fairly and promptly report all income associated with youractivity on the Site pursuant to applicable Laws and pay any and all taxesexigible thereon; and16. that you will accurately and promptly inform Advantage if you know orhave reason to know whether any of the foregoing representations orwarranties no longer is correct or becomes incorrect.15. No Representations &amp;amp; Warranties by Advantage: Advantage makes norepresentations, warranties, or guarantees to you of any kind. The Site and theServices are offered strictly on an as-is, where-is basis and, without limiting thegenerality of the foregoing, are offered without any representation as tomerchantability or fitness for any particular purpose.16. No Advice: Advantage does not provide any investment advice or advice on tradingtechniques, models, algorithms, or any other schemes.17. Limitation of Liability &amp;amp; Release: Important: Except as may be provided for in theseTerms of Service, Advantage assumes no liability or responsibility for and shall haveno liability or responsibility for any claim, application, loss, injury, delay, accident,cost, business interruption costs, or any other expenses (including, withoutlimitation, attorneys’ fees or the costs of any claim or suit), nor for any incidental,direct, indirect, general, special, punitive, exemplary, or consequential damages, lossof goodwill or business profits, work stoppage, data loss, computer failure ormalfunction, or any and all other commercial losses (collectively, referred to hereinas “Losses”) directly or indirectly arising out of or related to:1. these Terms of Service;2. the Site, and your use of it;3. the Services, and your use of any of them;4. any inaccurate, misleading, or incomplete statement by Advantage or on theSite regarding your Digital Credits Wallet, whether caused by Advantage’snegligence or otherwise;5. any failure, delay, malfunction, interruption, or decision (including anydecision by Advantage to vary or interfere with your rights) by Advantagein operating the Site or providing any Service;6. any stolen, lost, or unauthorized use of your Digital Credits Walletinformation, any breach of security or data breach related to your DigitalCredits Wallet information, or any criminal or other third party act affectingAdvantage or any Associate; or,7. any offer, representation, suggestion, statement, or claim made aboutAdvantage, the Site, or any Service by any Associate.8. You hereby agree to release the Associates from liability for any and allLosses, and you shall indemnify and save and hold the Associates harmlessfrom and against all Losses. The foregoing limitations of liability shallapply whether the alleged liability or Losses are based on contract,negligence, tort, unjust enrichment, strict liability, violation of law orregulation, or any other basis, even if the Associates have been advised ofor should have known of the possibility of such losses and damages, andwithout regard to the success or effectiveness of any other remedies.18. No Waiver: Any failure by Advantage to exercise any of its respective rights,powers, or remedies under these Terms of Service, or any delay by Advantage indoing so, does not constitute a waiver of any such right, power, or remedy until7-years from the date of the incident has passed. The single or partial exercise of anyright, power, or remedy by Advantage does not prevent either from exercising anyother rights, powers, or remedies.19.Force Majeure (Superior Force): Advantage is not responsible for damages causedby delay or failure to perform undertakings under these Terms of Service when thedelay or failure is due to fires; strikes; floods; failures; power outages or direct orindirect acts of Gods and Goddesses (“ Devas ”) or the state’s enemies; lawful acts ofpublic authorities; any and all market movements, shifts, or volatility; computer,server, or Internet malfunctions; security breaches or cyberattacks; criminal acts;delays or defaults caused by common carriers; acts or omissions of third parties; or,any other delays, defaults, failures or interruptions that cannot reasonably beforeseen or provided against. In the event of force majeure, Advantage is excusedfrom any and all performance obligations and these Terms of Service shall be fullyand conclusively at an end.20. Assignment: These Terms of Service, and any of the rights, duties, and obligationscontained herein, are not assignable by you without prior written consent ofAdvantage. These Terms of Service, and any of the rights, duties, and obligationscontained herein, are freely assignable by Advantage without notice or your consent.Any attempt by you to assign these Terms of Service without written consent is void.21. Severability: If any provision of these Terms of Service or part thereof, as amendedfrom time to time, is determined to be invalid, void, or unenforceable, in whole or inpart, by any court of competent jurisdiction, such invalidity, voidness, orunenforceability attaches only to such provision to the extent of its illegality,unenforceability, invalidity, or voidness, as may be, and everything else in theseTerms of Service continues in full force and effect.22. Sharing of Personal Information: From time to time, Advantage receives informationrequests from law enforcement agencies around the world. In this context,Advantage might be ordered to share and/or will provide on a voluntary basis, if thisappears reasonable and necessary, your Personal Information with/to lawenforcement agencies and/or a Government. You hereby consent to the sharing ofyour Personal Information as further detailed in these Terms of Service.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_4">
+     <property name="text">
+      <string>As this is the first time the program is launched, you can choose where Advantage will store its data.</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="sizeWarningLabel">
+     <property name="text">
+      <string>Advantage Core will download and store a copy of the Advantage block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory. By default Advantage and wallet data will be stored in %appdata%.</string>
+     </property>
+     <property name="wordWrap">
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QRadioButton" name="dataDirDefault">
+     <property name="text">
+      <string>Use the default data directory</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QRadioButton" name="dataDirCustom">
+     <property name="text">
+      <string>Use a custom data directory:</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <property name="sizeConstraint">
+      <enum>QLayout::SetDefaultConstraint</enum>
+     </property>
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeType">
+        <enum>QSizePolicy::Fixed</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>60</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <property name="sizeConstraint">
+        <enum>QLayout::SetDefaultConstraint</enum>
+       </property>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_2">
+         <item>
+          <widget class="QLineEdit" name="dataDirectory"/>
+         </item>
+         <item>
+          <widget class="QPushButton" name="ellipsisButton">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>30</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string notr="true">...</string>
+           </property>
+           <property name="autoDefault">
+            <bool>false</bool>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <spacer name="verticalSpacer_3">
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Fixed</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>5</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QLabel" name="freeSpace">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+           <horstretch>1</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="wordWrap">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <spacer name="verticalSpacer_2">
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Fixed</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>5</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QLabel" name="errorMessage">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Preferred" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="textFormat">
+          <enum>Qt::RichText</enum>
+         </property>
+         <property name="wordWrap">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>40</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox">
+     <property name="font">
+      <font>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="standardButtons">
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>Intro</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>20</x>
+     <y>20</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>20</x>
+     <y>20</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>Intro</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>20</x>
+     <y>20</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>20</x>
+     <y>20</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

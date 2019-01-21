@@ -1,0 +1,4 @@
+qt/qt_libbitcreditqt_a-qrc_advantage_locale.o: \
+ qt/qrc_advantage_locale.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

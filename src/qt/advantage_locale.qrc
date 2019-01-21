@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/advantage_bg.qm</file>
+        <file alias="ca">locale/advantage_ca.qm</file>
+        <file alias="cs">locale/advantage_cs.qm</file>
+        <file alias="da">locale/advantage_da.qm</file>
+        <file alias="de">locale/advantage_de.qm</file>
+        <file alias="en">locale/advantage_en.qm</file>
+        <file alias="en_US">locale/advantage_en_US.qm</file>
+        <file alias="es">locale/advantage_es.qm</file>
+        <file alias="fi">locale/advantage_fi.qm</file>
+        <file alias="fr_FR">locale/advantage_fr_FR.qm</file>
+        <file alias="it">locale/advantage_it.qm</file>
+        <file alias="ja">locale/advantage_ja.qm</file>
+        <file alias="ko_KR">locale/advantage_ko_KR.qm</file>
+        <file alias="nl">locale/advantage_nl.qm</file>
+        <file alias="pl">locale/advantage_pl.qm</file>
+        <file alias="pt">locale/advantage_pt.qm</file>
+        <file alias="pt_BR">locale/advantage_pt_BR.qm</file>
+        <file alias="ro_RO">locale/advantage_ro_RO.qm</file>
+        <file alias="ru">locale/advantage_ru.qm</file>
+        <file alias="sk">locale/advantage_sk.qm</file>
+        <file alias="sv">locale/advantage_sv.qm</file>
+        <file alias="uk">locale/advantage_uk.qm</file>
+        <file alias="zh_CN">locale/advantage_zh_CN.qm</file>
+        <file alias="zh_TW">locale/advantage_zh_TW.qm</file>
+    </qresource>
+</RCC>
